@@ -27,9 +27,9 @@ I have grown from intern to developer, consistently taking on responsibilities b
 ---
 
 ## 📌 Featured Projects
-🔹 [Front-End Alura](https://github.com/Nikolas-Mendes/Front-End-Alura) – Front-end practice project with modern HTML/CSS  
-🔹 [Mobile App](https://github.com/Nikolas-Mendes/Mobile) – Mobile project using Dart/Flutter  
-🔹 [Web III](https://github.com/Nikolas-Mendes/WEB-III) – Java-based web development project  
+🔹 [Front-End Projects](https://github.com/Nikolas-Mendes/Front_End_Projects) – Front-end Projects
+🔹 [Back-End Projects](https://github.com/Nikolas-Mendes/Back_End_Projects) – Back-End Projects
+🔹 [Mobile App](https://github.com/Nikolas-Mendes/Mobile) – Mobile Projects  
 
 ---
 
