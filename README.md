@@ -34,6 +34,7 @@ I have grown from intern to developer, consistently taking on responsibilities b
 ---
 
 ## 🎓 Background
+- 🎓 Postgraduate student in Artificial Intelligence and Data Science.
 - 🎓 Degree in **Systems Analysis and Development**  
 - 💼 Professional experience from **internship to developer roles**  
 - 📈 Always seeking opportunities to grow as a **developer and contributor**  
